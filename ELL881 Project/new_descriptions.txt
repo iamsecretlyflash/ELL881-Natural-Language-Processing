@@ -1,0 +1,19 @@
+"Texts in the tweet mentioning statistics, dates or numbers",
+"Texts in the tweet reporting something to be true or an instance to have happened or will happen",
+"Texts in the tweet containing verified or scientific fact",
+"Texts in the tweet that negate a possibly false claim",
+"Texts in the tweet that indirectly or subtly imply that something is true",
+"Texts in the tweet made in sarcasm or humour",
+"Texts in the tweet containing opinions that have societal implications",
+"Texts in the tweet that says something is true and provides an attachment as evidence",
+"Texts in the tweet in the form of conditional statement",
+"Texts in the tweet mocking or attacking a group or a individual",
+"Texts in the tweet reporting personal experience",
+"Texts in the tweet containing a quote from someone"
+
+"Texts in the tweet that are opinions are not claims"
+"Texts in the tweet that are facts are not claims"
+"Texts in the tweet that make a prediction about a future event"
+"Texts in the tweet that propose a solution to a problem"
+"Texts in the tweet that make a comparison between two or more things"
+"Texts in the tweet that use vague or ambiguous language"
