@@ -25,4 +25,5 @@ A few tips to help you with the course:
 ## Topic wise tips
 
 1) Hidden Markov Models: Read about the expectation maximization model and Markov Decision Processes for better understanding this part
+2) CUDA Out of Memory Error :Don't abuse batch size. With a higher batch size training performace can imporove but can also result in a CUDA memory error and usually you will have to restart the Kernel to free up the space on GPU. You can also use torch.cuda.empty_cache() but it doesn't clear the whole GPU. Even iterating over CUDA objects using the garbage collector library didn't really help. So, restarting the kernel is usually the only way to go XD.
 
