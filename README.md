@@ -12,9 +12,9 @@ A few tips to help you with the course:
   - Keep in touch with the classes and lecture slides. The lecture slides are quite informative but I believe it's essential to attend classes because
       a lot of explanations are done in classes which are not covered in the slides. For instance, backpropagation through time was covered in depth in class
       but the notes weren't too helpful.
-  - Select your partners for the course project carefully. I was the only second-year student in the course and I had paired with two final-year
+  - Select your partners for the course project carefully. I had paired with two final-year
     seniors. Both of them audited/withdrew the course and I had to do the course project alone. Altough doing the project alone gives you complete
-    control and it's a fun experience in itself, but having a partner helps (I guess XD)
+    control and it's a fun experience in itself, but having a partner helps.
   - Select your course project carefully as well.
   - Exams are pretty light. Lecture slides are sufficient imo
   - For the paper presentation, you will just get 10 minutes. So make sure you just present the main ideas of the paper. Look up on paper presentation
