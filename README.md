@@ -3,7 +3,7 @@ This repository contains the assignments, mini Project and lectures for the cour
 
 For this course, in the assignments part, it was best 2 out of 3 assignments and I chose to do first and third assignments only. I did write the code for the second assignment but didn't train the model
 
-The course was quite fun and informative. Prof. Tanmoy really knows his stuff and he had a good approach towards teaching as well. There were regular 
+The course was quite fun and informative. Prof. Tanmoy really knows his stuff and has a good approach towards teaching as well. There were regular 
 in-class quizzes and we also had a presentation component where we had to present a research paper. I did this course before doing a formal course
 in machine learning ([COL774](https://github.com/iamsecretlyflash/COL774)) but I had no trouble in understanding the contents of the course. 
 I highly recommend this course to anyone who wants to explore Language Processing and is interested in AI and LLMs.
@@ -25,5 +25,5 @@ A few tips to help you with the course:
 ## Topic wise tips
 
 1) Hidden Markov Models: Read about the expectation maximization model and Markov Decision Processes for better understanding this part
-2) CUDA Out of Memory Error :Don't abuse batch size. With a higher batch size training performace can imporove but can also result in a CUDA memory error and usually you will have to restart the Kernel to free up the space on GPU. You can also use torch.cuda.empty_cache() but it doesn't clear the whole GPU. Even iterating over CUDA objects using the garbage collector library didn't really help. So, restarting the kernel is usually the only way to go XD.
+2) CUDA Out of Memory Error :Don't abuse batch size. With a higher batch size training performace may imporove but can also result in a CUDA memory error and usually you will have to restart the Kernel to free up the space on GPU. You can also use torch.cuda.empty_cache() but it doesn't clear the whole GPU. Even iterating over CUDA objects using the garbage collector library didn't really help. So, restarting the kernel is usually the only way to go XD.
 
